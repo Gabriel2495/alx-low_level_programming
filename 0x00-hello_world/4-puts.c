@@ -1,14 +1,10 @@
 #include <stdio.h>
 
 /**
+ *  main - Entry point function
  *
- *  * *main - Entry point function
- *
- *   * *Return:This will Always 0 that is(interger) (Success)
- *
- *    */
-
-
+ *  Return:This will Always 0 that is(interger) (Success)
+ */
 
 int main(void)
 
