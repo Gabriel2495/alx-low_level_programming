@@ -1,14 +1,14 @@
-#include "holberton.h"
+#include "putchar.h"
 
 /**
- * main - Print "Holberton"
+ * main - Print "putchar"
  *
  * Return: Always 0 (Success)
 */
 int main(void)
 {
 	int i = 0;
-	char name_of_school[] = "Holberton";
+	char name_of_school[] = "putchar";
 
 	while (i < 9)
 	{
